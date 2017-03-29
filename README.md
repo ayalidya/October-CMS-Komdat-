@@ -3,7 +3,7 @@ Projek ini untuk tugas akhir mata kuliah Komunikasi Data dan Jaringan
 
 
 Step:
-0.  install 
+1.  install 
     sudo apt install apache2
     sudo apt install mysql-server
     sudo apt install php7.0
@@ -22,3 +22,4 @@ Step:
 10. Unzip file download.zip -> sudo unzip download.zip
 11. Copy file semua file yang berada di folder install-master dan paste ke direktori
 
+fgfgfg
