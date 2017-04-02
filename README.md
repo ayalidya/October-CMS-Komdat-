@@ -67,3 +67,12 @@ sudo cp -r ~/install-master/* /var/www/html/
 sudo chown -R www-data:www-data /var/www/html/
 sudo chmod -R 755 /var/www/html/
 ```
+### 6. Buat database baru untuk October CMS di mysql dan ubah status kepemilikannya
+```shell
+create database nama_database character set utf8;
+GRANT ALL PRIVILEGES ON nama_database.* TO 'nama_database'@'alamat_server' IDENTIFIED BY 'password_database'
+flush privileges;
+```
+
+***
+# Post-Installation
