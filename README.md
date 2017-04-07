@@ -74,5 +74,22 @@ GRANT ALL PRIVILEGES ON nama_database.* TO 'nama_database'@'alamat_server' IDENT
 flush privileges;
 ```
 
+### 7. Atur database, administrator, dan backend environment
+Masuk ke browser dan ketikkan alamat http://172.18.88.85/install.php
+Atur database dan arahkan ke database yang telha dibuat sebelumnya.
+
+![GitHub Logo](/images/Capture1.PNG)
+
+Klik tombol administrator. Masukkan identitas untuk admin: nama, password, dan yang lainnya
+
+![GitHub Logo](/images/Capture2.PNG)
+
+Klik tombol advanced. Masukkan URL untuk mengakses sistem admin.
+
+![GitHub Logo](/images/Capture3.PNG)
+
 ***
 # Post-Installation
+Hapus file 'install.php' dan folder 'install-master' dari directory
+
+![GitHub Logo](/images/Capture4.PNG)
