@@ -90,6 +90,11 @@ Klik tombol advanced. Masukkan URL untuk mengakses sistem admin.
 
 ***
 # Post-Installation
-Hapus file 'install.php' dan folder 'install-master' dari directory
+Hapus file `install.php` dan folder `install-master` dari directory
 
 ![GitHub Logo](/images/Capture4.PNG)
+
+
+Kemudian update October CMS
+
+![GitHub Logo](/images/Capture1.PNG)
