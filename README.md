@@ -95,6 +95,6 @@ Hapus file `install.php` dan folder `install-master` dari directory
 ![GitHub Logo](/images/Capture4.PNG)
 
 
-Kemudian update October CMS
+Kemudian buka browser, dan masukkan URL untuk sistem admin yang telah kita setel sebelumnya. Pilih setting, lalu update October CMS
 
-![GitHub Logo](/images/Capture1.PNG)
+![GitHub Logo](/images/Capture5.PNG)
