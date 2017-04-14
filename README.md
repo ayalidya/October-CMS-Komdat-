@@ -4,6 +4,7 @@ Projek ini untuk tugas akhir mata kuliah Komunikasi Data dan Jaringan
 
 # Deskripsi Singkat OctoberCMS
 OctoberCMS adalah sebuah content management system (CMS) gratis, open source dan self-hosted yang berbasiskan pada bahasa pemrograman PHP dan framework Laravel. Saat ini, OctoberCMS telah mendukung MySQL, SQLite, dan PostgreSQL untuk backend basis data dan basis data flat file untuk struktur front end-nya.
+***
 
 # Pre-installation
 ### 1. Install apache, mysql, php, dan package lain yang dibutuhkan pada server
